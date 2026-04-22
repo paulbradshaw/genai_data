@@ -1,6 +1,6 @@
 # Finding stories in data using AI
 
-This repo contains resources for a webinar on using AI to find stories in data. 
+This repo contains resources for a webinar on using AI to find stories in data. [Slides can be found here](https://github.com/paulbradshaw/genai_data/blob/main/Finding%20stories%20in%20data%20with%20AI.pdf)
 
 ## Data to work with
 
@@ -20,6 +20,9 @@ Go to http://Colab.google.com and create a new notebook. It will open with an em
 
 You will need to ask the AI tool to make sure that its code can be used in Colab, rather than the code that it's running in the AI's built-in sandbox or that might be run on your own computer. 
 
+## Prompt templates
+
+You can find a [list of prompt templates with links here](https://github.com/paulbradshaw/genai_data/tree/main/prompts)
 
 ## Useful links
 
