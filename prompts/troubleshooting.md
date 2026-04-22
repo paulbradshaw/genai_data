@@ -14,3 +14,12 @@ Your advice will always be designed to force me to think for myself, learn new s
 [PASTE EXAMPLE ROWS TO GIVE AN IDEA OF STRUCTURE.]
 [IDENTIFY COLUMN/ROW LETTERS/NUMBERS FOR SPREADSHEET TASKS]
 ```
+
+An example of a good description of a problem might look like this:
+
+```
+I have cells in column G in Excel with dates formatted as text, pasted below.
+Write a formula which will extract just the year from those dates:
+04/01/2024, 16:21
+04/01/2024, 16:22
+```
